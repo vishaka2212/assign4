@@ -1,1 +1,1 @@
-This is master text file
+ edited: This is master text file
